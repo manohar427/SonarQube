@@ -15,7 +15,6 @@ public class SonarTest {
 
           if(x == 0){
              log.info("OK");
-             log.info("OK");
           }
       }
     }
