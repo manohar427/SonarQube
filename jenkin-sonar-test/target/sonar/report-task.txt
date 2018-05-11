@@ -2,5 +2,5 @@ projectKey=com.test:jenkin-sonartest
 serverUrl=http://localhost:9000
 serverVersion=6.7.3.38370
 dashboardUrl=http://localhost:9000/dashboard/index/com.test:jenkin-sonartest
-ceTaskId=AWNQpNgkgubZu-f6wK2j
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWNQpNgkgubZu-f6wK2j
+ceTaskId=AWNQ-1QNgubZu-f6wK2r
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWNQ-1QNgubZu-f6wK2r
